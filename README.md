@@ -1,4 +1,4 @@
-# marketaccess-africa is your gateway to navigating the African Continental Free Trade Area (AfCFTA), an emerging single market of 1.4 billion consumers across 54 African countries, with a combined GDP of US$3.4 trillion and a burgeoning digital trade potential estimated at over US$16 trillion.
+# MarketAccess Africa is your gateway to navigating the African Continental Free Trade Area (AfCFTA), an emerging single market of 1.4 billion consumers across 54 African countries, with a combined GDP of US$3.4 trillion and a burgeoning digital trade potential estimated at over US$16 trillion.
 Through a robust combination of policy measures, institutional frameworks, operational instruments and market structures, we empower both indigenous African and foreign enterprises to thrive in this Africa's emerging single market.
 
 Features
